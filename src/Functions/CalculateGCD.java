@@ -3,7 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class CalculateGCD {
-
+    //Calculate Greatest Common Divisor of 2 Numbers
     // Function to calculate GCD of two numbers
     public static int gcd(int a, int b) {
         while (b != 0) {
