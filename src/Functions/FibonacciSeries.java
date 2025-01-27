@@ -24,7 +24,7 @@ public class FibonacciSeries {
         Scanner sc = new Scanner(System.in);
 
         // Prompting the user to enter the number of terms
-        System.out.println("Enter the number of terms for the Fibonacci series: ");
+        System.out.println("Enter the number of terms to print of the Fibonacci series: ");
         int n = sc.nextInt();
 
         PrintFibonacci(n);
